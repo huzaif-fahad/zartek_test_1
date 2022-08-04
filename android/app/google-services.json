@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "320855584634",
+    "project_id": "zartek-test-f7dce",
+    "storage_bucket": "zartek-test-f7dce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320855584634:android:e78bb14a6707200dff70c3",
+        "android_client_info": {
+          "package_name": "com.example.zartek_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320855584634-5ir8kkia3m3357vd1tfued7e3qtgv6sd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zartek_test",
+            "certificate_hash": "8475e904ddd4016d23c413433b84318f93764c6d"
+          }
+        },
+        {
+          "client_id": "320855584634-enrrgdd87k2kk1862vd2ri2g088hubsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrP4MQvG-x2IGZrp8VpxKYPYzjBvDnywo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320855584634-enrrgdd87k2kk1862vd2ri2g088hubsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
